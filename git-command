@@ -10,5 +10,15 @@ mkdir floderName // by this command you can create folder
 git init // to start git you should type this command
 touch fileName // by following command you are able to create any types of file with extension
 cd folderName // cd means change directory, by this command you can change directory and go inside your desired directory
+cd ~ // this command helps to go root directory.
 vim fileName // by this command you can open your file. here vim is editor.
+Esc -> shift +:wq // to exit as well as save editor.
+open fileName // this command for mac
+
+/* some very important command */
+git status // it helps to see staging and unstaggingng area.
+git add .    // it helps to add all files from unstagging area.
+
+git commit -m "changes thing" // by this command we can write down purpose of coding.
+ 
 
