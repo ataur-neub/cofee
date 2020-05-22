@@ -1,0 +1,14 @@
+//here are given some important git command and it's explanation
+/* Using git in local server */
+
+1. first you have to download git, download links are given below
+https://git-scm.com/downloads
+after installing you are ready to use that.
+
+/* --------- some commands -----------------*/
+mkdir floderName // by this command you can create folder
+git init // to start git you should type this command
+touch fileName // by following command you are able to create any types of file with extension
+cd folderName // cd means change directory, by this command you can change directory and go inside your desired directory
+vim fileName // by this command you can open your file. here vim is editor.
+
